@@ -1,0 +1,6 @@
+{
+  "name": "StarWare — Independent Software Workshop Portfolio",
+  "description": "Official portfolio and open-source software monograph for StarWare (@starware / Nossy Drelich) on GitFlic. Offline-first, zero-telemetry systems software, desktop shells, mobile launchers, and specialized utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
